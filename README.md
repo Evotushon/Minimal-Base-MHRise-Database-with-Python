@@ -17,8 +17,14 @@ It's written in the title: **Base Rise** but if I have time and will I'll do it
 
 ## Changelogs
 
+`0.0.2`
+
+* Started making the classes used for making an object of each object for its category (armors, items, monsters, skills)
+* Made so that the program occupies less memory and takes less to be used and coded
+* Fixed some errors in this file
+
 `0.0.1`
 
 * Started the Project
 * Initialized the repo
-* Imagine starting to script and then writing the README.md file when you can just start writing and then coding and release it in the 0.0.25
+* Imagine starting to script and then writing the README.md file when you can just start writing and then coding and release it in the 0.0.2

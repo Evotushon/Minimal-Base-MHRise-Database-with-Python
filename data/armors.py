@@ -1,7 +1,3 @@
-class monster:
-    def __init__(self, name, type, stars, location, hitzone):
-        self.name = name
-        self.type = str(type)
-        self.stars = int(stars)
-        self.location = list(location)
-        self.hitzones = dict(hitzone)
+from imports import *
+class armor:
+    pass
