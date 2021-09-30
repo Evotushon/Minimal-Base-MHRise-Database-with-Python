@@ -10,7 +10,10 @@ class monster:
         self.head = head
         self.body = body
         self.arms = arms
-        self.set = dict(set) = {
+        self.legs = legs
+        self.boots = boots
+        self.set = dict(set)
+        set = {
             self.head,
             self.body,
             self.arms,
