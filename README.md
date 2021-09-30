@@ -11,7 +11,7 @@ I wanted to make this project to learn OOP with Python and, when I finish it, tr
 **Will you Update the database when [Monster Hunter Rise: Sunbreak](https://www.monsterhunter.com/rise-sunbreak "Link to the MHR:S Official Page") will be released, in Summer 2022?**  
 It's written in the title: **Base Rise** but if I have time and will I'll do it
 
-![Monster Hunter Rise Sunbreak](https://www.everyeye.it/public/immagini_new4/2021/9/24-107/monster-hunter-rise-sunbreak_switch-2522.jpg)
+![Monster Hunter Rise Sunbreak](assets/mhr_sunbreak_banner.jpg)
 
 ---
 
