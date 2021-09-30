@@ -1,4 +1,4 @@
-from imports import *
+from dataimports import *
 class monster:
     def __init__(self, name, type, stars, location, hitzone, loot, set, head, body, arms, legs, boots):
         self.name = str(name)

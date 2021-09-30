@@ -1,3 +1,3 @@
-from imports import *
+from dataimports import *
 class skill:
     pass
