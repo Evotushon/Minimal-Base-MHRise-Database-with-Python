@@ -7,3 +7,4 @@ class armor:
         self.armorpieces = dict(armorpieces)
         self.skills = dict(skills)
         self.skill_level = int(skill_level)
+        
