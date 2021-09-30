@@ -5,6 +5,9 @@ class skill:
         self.maxlevel = int(maxlevel)
         self.gunneronly = bool(gunneronly)
         self.swordmasteronly = bool(swordmasteronly)
+        self.foreveryweapon = foreveryweapon
+        if self.foreveryweapon:
+            swordmasteronly = False
+            gunneronly = False
         if not self.gunneronly and not self.swordmasteronly:
-            self.foreveryweapon = foreveryweapon
             foreveryweapon = True
